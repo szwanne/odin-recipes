@@ -1,1 +1,2 @@
 # odin-recipes
+This mini assignment is about using github as well as your command terminal to connect your code locally. Furthermore, to commit and update your code locally instead of making changes directly in Github
